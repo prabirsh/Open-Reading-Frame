@@ -1,0 +1,19 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# output of `orf find` and `orf demo`
+orf_results/
+orf_demo/
+
+# editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
